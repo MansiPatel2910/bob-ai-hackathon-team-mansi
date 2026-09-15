@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [Fab Bottleneck & Supply Chain Risk Advisor]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [Team Mansi] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Mansi Patel] — [26MSIT100@charusat.edu.in] |
+| **Members** | [Hanee], [Diya], [Surbhi] |
 
 ---
 
@@ -33,11 +33,10 @@
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [MCP-Native Architecture: Exposes three independent, typed Model Context Protocol (MCP) tools (fab.get_wip_telemetry, fab.predict_bottleneck, and geo.assess_material_risk) that an orchestrator like IBM Bob can call natively to conduct multi-step reasoning.]
+- **Feature 2:** [* Predictive Bottleneck Engine: Computes the "X-factor" (actual cycle time divided by theoretical process time) for semiconductor fabrication equipment. It propagates delays downstream using a lot-based fan-out multiplier to project finished-goods ETA shifts across a 52-week horizon with statistical confidence.]
+- **Feature 3:** [* Geopolitical Risk Matrix: Scores critical semiconductor manufacturing materials (Gallium, Germanium, Neon, Palladium, and Tungsten) using a 0–100 risk index based on China's supply share %, the Herfindahl-Hirschman Index (HHI), active export-control postures, and alternate-source lead times.]
+
 
 ---
 
@@ -97,10 +96,10 @@ cp .env.example .env
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
+| 📹 Demo Video | [https://drive.google.com/file/d/13vtKz4R11R4B36ggdUlrWDODLiYnC1o1/view?usp=drivesdk] |
+| 🌐 Live Demo | [https://drive.google.com/file/d/13vtKz4R11R4B36ggdUlrWDODLiYnC1o1/view?usp=drivesdk] |
+| 🖼️ Screenshots | [https://drive.google.com/file/d/1AY8vGzp2i7uo4C6WKg9yJjhNr5aOmquZ/view?usp=drivesdk] |
+| 📊 Presentation | [https://docs.google.com/presentation/d/1gybzKiy2cz_ghr3ue5GgzvHnMO8wTlRY/edit?usp=drivesdk&ouid=110020674011620995779&rtpof=true&sd=true] |
 
 ---
 
